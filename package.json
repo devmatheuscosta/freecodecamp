@@ -1,8 +1,6 @@
 {
-	"author": 
-		"Matheus Costa"
-	,
 	"name": "fcc-learn-npm-package-json",
+	"author": "Matheus Costa",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
